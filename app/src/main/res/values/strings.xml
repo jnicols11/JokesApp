@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JokesApp</string>
+    <string name="Joke1">Why did the chicken cross the road?</string>
+    <string name="Joke2">Im hungry</string>
+    <string name="joke3">What is red and smells like blue paint?</string>
+    <string name="Joke4">What do you call a bear with no ears?</string>
+    <string name="Joke5">What is black, white, and read all over?</string>
+    <string name="Joke6">What do you put in a bucket to make it lighter?</string>
+</resources>
